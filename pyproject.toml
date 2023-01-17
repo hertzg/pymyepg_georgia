@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "myepg-georgia"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Giorgi Kotchlamazashvili <georgedot@gmail.com>"]
 readme = "README.md"
