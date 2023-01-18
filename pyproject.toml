@@ -8,8 +8,8 @@ packages = [{include = "myepg_georgia"}]
 
 [tool.poetry.dependencies]
 python = ">3.8"
-requests = "^2.28.1"
-pyjwt = "^2.5.0"
+requests = "2.28.1"
+pyjwt = "2.5.0"
 
 
 [build-system]
